@@ -20,7 +20,7 @@ header{
     display: inline-block;
     font-size: 24px;
     color: #fff;
-    font-weight: 100;
+    font-weight: 400;
     white-space: nowrap;
     letter-spacing: 3px;
 }
@@ -70,7 +70,7 @@ ul > li > a{
     height: fit-content;
     text-decoration: none;
     color: #000;
-    font-weight: 100;
+    font-weight: 300;
     white-space: nowrap;
     letter-spacing: 1px;
     padding-left: 40px;
