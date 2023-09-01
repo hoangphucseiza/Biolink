@@ -16,6 +16,7 @@ header{
     flex-direction: column;
     align-items: center;
 }
+
 .name{
     display: inline-block;
     font-size: 24px;
@@ -27,7 +28,14 @@ header{
 .tick{
     width: 13px;
     position: relative;
+    cursor: pointer;
 }
+/* .verify{
+    content: "";
+    background-color: #fff;
+    width: 10px;
+    height: 10px;
+} */
 /* .tick::after{
     content: "";
     position: absolute;
@@ -64,6 +72,7 @@ ul > li{
     padding: 10px;
     margin: 1.4em 0;
     box-shadow: rgba(28 32 93 / 24%) 0px 2px 8px 0px;
+    cursor: pointer;
 }
 ul > li > a{
     flex-grow: 1;
