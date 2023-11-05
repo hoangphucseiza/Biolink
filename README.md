@@ -1,1 +1,1 @@
-https://hoangphucseiza.github.io/biolink/
+https://hoangphucseiza.github.io/Biolink/
